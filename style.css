@@ -6,7 +6,7 @@
 html,body { height: 100%; width: 100%; }
 body {
     min-width: 23rem; font-family: sans-serif; display: table;
-    background-color: papayawhip;
+    background-color: #ABC3CD;
 }
 
 body {
@@ -110,7 +110,7 @@ li.home > a {
     text-decoration: none; display: block; padding: 0.9rem 1rem; align-content: center;
 }
 li.home > a:hover {
-    background-color: wheat;
+    background-color: 61828A;
 }
 
 li.blog {
