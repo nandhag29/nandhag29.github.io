@@ -32,7 +32,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
     }
 }
 #inner {
-    display: inline-block; padding: 1rem;
+    display: inline-block; padding: 1rem; font-size:4em;
 }
 #inner > p {
     display: block; font-size: 1rem; padding: 0.3rem 0;
