@@ -95,7 +95,7 @@ a .goog {
 }
 
 #footer {
-display: inline-block;
+display: inline;
 position: fixed;
 left: 0;
 bottom: 0;
