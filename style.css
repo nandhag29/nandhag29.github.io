@@ -110,7 +110,7 @@ li.home > a {
     text-decoration: none; display: block; padding: 0.9rem 1rem; align-content: center;
 }
 li.home > a:hover {
-    background-color: 61828A;
+    background-color: #61828A;
 }
 
 li.blog {
