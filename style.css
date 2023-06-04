@@ -1,11 +1,11 @@
 @font-face {
     src: "";
-    font-family: monospace;
+    font-family: sans-serif;
 }
 * { padding: 0; margin: 0; }
 html,body { height: 100%; width: 100%; }
 body {
-    min-width: 23rem; font-family: monospace; display: table;
+    min-width: 23rem; font-family: sans-serif; display: table;
     background-color: papayawhip;
 }
 
