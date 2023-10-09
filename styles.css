@@ -40,6 +40,9 @@ and (-webkit-min-device-pixel-ratio: 3) {
 #inner > q {
     display: block; font-size: 1rem; padding: 0.3rem 0;
 }
+q {
+    quotes: none;
+}
 ul {
     display: inline-block; list-style-type:none; padding: 0.6rem 0 0.3rem 0;
 }
